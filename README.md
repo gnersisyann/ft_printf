@@ -36,10 +36,3 @@ int main(void)
     return 0;
 }
 ```
-
-## 🏆 Learning Outcomes
-✅ Understanding width, precision, and padding
-
-✅ Implementing format flag logic
-
-✅ Mastering formatted output in C
